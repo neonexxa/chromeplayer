@@ -5,7 +5,7 @@
 </head>
 <body>
 	<?php
-	$prefix = 'Season1';
+	$prefix = 'Series/Season1';
 	$totalNumOfEp = 26;
 
     for ($i=1; $i <= $totalNumOfEp; $i++) { 
